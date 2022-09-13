@@ -11,4 +11,6 @@
     Number of tasks : 0
     Number of tasks after process start : 1
    ```
+4. Add REST support by adding dependency *flowable-spring-boot-starter-rest*
+   - It is very common to use a REST API on top of the embedded Flowable engine, because it allows your application to interact with other micro services.
 
