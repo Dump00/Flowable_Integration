@@ -1,3 +1,5 @@
+# Flowable Integration - Note
+
 1. Add Dependencies
 2. Create a folder *processes* inside `src/main/resources/`
    - Because we are using H2 driver, an in-memory database was automatically created and passed to Flowable’s process engine configuration
